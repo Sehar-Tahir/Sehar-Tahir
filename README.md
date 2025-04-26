@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sehar Tahir</h1>
 <h3 align="center">A passionate developer from Pakistan</h3>
-<img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-vector/programmer-semi-flat-color-vector-character-student-figure-sitting-person-white-man-computer-desk-coding-isolated-modern-cartoon-style-illustration-graphic-design-animation_151150-5964.jpg?w=740">
 
 - 🌱 I’m currently working on  Web Development
 
