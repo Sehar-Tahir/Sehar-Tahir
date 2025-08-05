@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sehar Tahir</h1>
-<h3 align="center">A passionate web developer from Pakistan</h3>
+<h3 align="center">A passionate Web developer from Pakistan</h3>
 
 <img align="right" alt="Coding" width="300" src="https://www.21kschool.com/pk/wp-content/uploads/sites/17/2023/04/Girls-coding-myth.png">
 
 - 🔭 I’m currently working on **Web Development**
 
-- 👨‍💻 All of my projects are available at [https://sehar-portfolio.vercel.app/](https://sehar-portfolio.vercel.app/)
+- 👨‍💻 My projects are available at [https://sehar-portfolio.vercel.app/](https://sehar-portfolio.vercel.app/)
 
 - 📫 How to reach me **sehartahirofficial@gmail.com**
 
