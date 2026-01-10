@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **sehartahirofficial@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me on Linkedin:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sehartahir" target="blank">https://www.linkedin.com/in/sehartahir</a>
 </p>
