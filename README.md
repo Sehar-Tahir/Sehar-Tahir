@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Web Development**
 
-- 👨‍💻 View my Portfolio at [https://sehar-portfolio.vercel.app/] (https://sehar-portfolio-site.vercel.app/)
+- 👨‍💻 View my Portfolio at [https://sehar-portfolio.vercel.app/]
 
 - 📫 How to reach me **sehartahirofficial@gmail.com**
 
